@@ -71,7 +71,7 @@ $stmt = $stmt1;
 
         mysqli_stmt_bind_result($stmt2, $post_id, $post_title, $post_author, $post_user, $post_date, $post_image, $post_content);
 
-var_dump($stmt2);exit;
+
      $stmt = $stmt2;
 
     }

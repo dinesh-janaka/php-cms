@@ -358,7 +358,7 @@ $reset_posts_query = mysqli_query($connection, $query);
     header("Location: posts.php");
     
     
-}                                                                   
+}                                          ///kkkkk                         
 ?>                                                                                          
                                                                                                                 
                                                                                                                                       

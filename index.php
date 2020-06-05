@@ -212,7 +212,7 @@ echo "<li><a class='active_link' href='index.php?page={$i}'>{$i}</a></li> "	;
 ?>
 
 
-	
+<!--	/jjdjkhsd\ghvlh-->
 	
 	
 </ul>        
